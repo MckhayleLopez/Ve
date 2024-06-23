@@ -26,6 +26,10 @@ tab2:CreateButton("Tiger-Admin", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dalloc2/Roblox/main/TigerAdmin.lua"))()
 end)
 
+tab2:CreateButton("Untitled PL Script", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/elliexmln/PrizzLife/main/pladmin.lua'))()
+end)
+
 tab3:CreateButton("King-Hub", function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/R8QMbhzv"))()
 end)
